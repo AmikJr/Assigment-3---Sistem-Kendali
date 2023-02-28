@@ -3,6 +3,7 @@ Wahyu Micho Indrawan (21/475378/PA/20573)
 ---------------------------------------------------
 
 >> Soal
+
 Create a program code to determine stability using the Routh stability criteria. The 
 program must be able to :
 1. Returns the value of a polynomial
