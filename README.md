@@ -1,5 +1,5 @@
 # Assigment-3---Sistem-Kendali
-Wahyu Micho Indrawan (21/475378/PA/20573)
+by Wahyu Micho Indrawan
 ---------------------------------------------------
 
 >> Soal
