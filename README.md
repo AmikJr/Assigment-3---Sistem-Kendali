@@ -1,7 +1,5 @@
 # Assigment-3---Sistem-Kendali
-Nama : Wahyu Micho Indrawan
-NIM  : 21/475378/PA/20573
-
+Wahyu Micho Indrawan (21/475378/PA/20573)
 ---------------------------------------------------
 
 >> Soal
